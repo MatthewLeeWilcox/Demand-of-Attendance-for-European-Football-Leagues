@@ -17,3 +17,6 @@ The structure of the repository is as follows:
 [results](https://github.com/MatthewlWilcox/Capstone/tree/main/results) - Here is where graphs and visualizations from the projects are stored.
 
 [src](https://github.com/MatthewlWilcox/Capstone/tree/main/src) - Here is where the predominant amount of the project is done. It is divided into three different factors (Betting, Away Team Impact, and time/date), modeling, data processing, and data scraping.
+
+Notes:
+This is an import of my Undergraduate Capstone Project. I lost access to my GitHub associated with my Undergraduate program email. 
